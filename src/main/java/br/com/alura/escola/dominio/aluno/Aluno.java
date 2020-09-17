@@ -39,6 +39,10 @@ public class Aluno {
 	public List<Telefone> getTelefones() {
 		return telefones;
 	}
+
+	public String getSenha() {
+		return senha;
+	}
 	
 }
 
